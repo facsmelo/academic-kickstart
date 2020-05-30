@@ -1,44 +1,80 @@
 +++
 # Experience widget.
-widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = true  # Activate this widget? true/false
-weight = 20  # Order that this section will appear.
+widget = "experience"
+headless = true  
+active = true  
+weight = 20  
 
-title = "Experience"
+title = "Professional Experience"
 subtitle = ""
 
-# Date format for experience
-#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
 
-# Experiences.
-#   Add/remove as many `[[experience]]` blocks below as you like.
-#   Required fields are `title`, `company`, and `date_start`.
-#   Leave `date_end` empty if it's your current employer.
-#   Begin/end multi-line descriptions with 3 quotes `"""`.
+# Experiences
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Associate Professor"
+  company = "Instituto Superior Técnico"
+  company_url = "http://www.tecnico.ulisboa.pt"
+  location = "Lisbon"
+  date_start = "Feb 2018"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  Department of Computer Science and Engineering
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Assistant Professor"
+  company = "Instituto Superior Técnico"
+  company_url = "http://www.tecnico.ulisboa.pt"
+  location = "Lisbon, Portugal"
+  date_start = "Feb 2010"
+  date_end = "Jan 2018"
+  description = """
+  Department of Computer Science and Engineering
+  """
 
+[[experience]]
+  title = "Senior Researcher"
+  company = "INESC-ID"
+  company_url = "http://www.inesc-id.pt"
+  location = "Lisbon, Portugal"
+  date_start = "June 2009"
+  date_end = ""
+  description = """
+  Group on AI for People and Society
+  """
+
+[[experience]]
+  title = "Post-doctoral Fellow"
+  company = "Carnegie Mellon University"
+  company_url = "http://www.cmu.edu"
+  location = "Pittsburgh, USA"
+  date_start = "Jan 2008"
+  date_end = "May 2009"
+  description = """
+  Department of Computer Science
+  """
+
+[[experience]]
+  title = "Lecturer"
+  company = "Instituto Politécnico de Leiria"
+  company_url = "https://www.ipleiria.pt/home/"
+  location = "Leiria, Portugal"
+  date_start = "Mar 2004"
+  date_end = "Sep 2004"
+  description = """
+  Department of Electrical Engineering, 
+  School of Technology and Management
+  """
+
+[[experience]]
+  title = "Teaching Assistant"
+  company = "Instituto Superior Técnico"
+  company_url = "http://www.tecnico.ulisboa.pt"
+  location = "Lisbon, Portugal"
+  date_start = "Sep 2000"
+  date_end = "Jul 2002"
+  description = """
+  Department of Mathematics
+  """
 +++
