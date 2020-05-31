@@ -3,6 +3,7 @@ title: "MAIS+S (closed)"
 summary: MAIS+S deals with the problem of planning in decentralized multi-agent systems in the context of intelligent surveillance networks.
 tags:
 - Multi-agent systems
+- Planning under uncertainty
 date: "2020-05-30T20:15:00"
 
 image:
@@ -16,12 +17,12 @@ links:
   url: "http://gaips.inesc-id.pt/mais-s/index.html"
 ---
 
-**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. CMU-PT/SIA/0023/2009)
+**Funded by:** Portuguese Fundacao para a Ciencia e Tecnologia (ref. CMU-PT/SIA/0023/2009)
 
 **Partners:**
 
 * INESC-ID, Portugal
-* Instituto de Sistemas e Robótica, IST, Portugal
+* Instituto de Sistemas e Robotica, IST, Portugal
 * Carnegie Mellon University, USA
 * ObservIT, Portugal
 

@@ -24,7 +24,7 @@ links:
 * The University of Hertfordshire, UK
 * Heriot-Watt University, UK
 * Otto-Friedrich – Universitat Bamberg, Germany
-* Eötvös Loránd University, Hungary
+* Eotvos Lorand University, Hungary
 * Wroclaw University of Technology, Poland
 * Swedish Institute of Computer Science, Sweden
 * INESC-ID, Portugal

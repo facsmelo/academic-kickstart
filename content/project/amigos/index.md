@@ -16,13 +16,13 @@ links:
   url: "https://gaips.inesc-id.pt/amigos/"
 ---
 
-**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. PTDC/EEISII/7174/2014)
+**Funded by:** Portuguese Fundacao para a Ciencia e Tecnologia (ref. PTDC/EEISII/7174/2014)
 
 **Partners:**
 
 * INESC-ID, Portugal
 * ISCTE-IUL, Portugal
-* Kungliga Tekniska Högskolan, Swedel
+* Kungliga Tekniska Hogskolan, Sweden
 
 **Role in the project:** Researcher
 

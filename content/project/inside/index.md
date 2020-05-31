@@ -17,14 +17,14 @@ links:
   url: "http://www.project-inside.pt/"
 ---
 
-**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. CMUP-ERI/HCI/0051/2013)
+**Funded by:** Portuguese Fundacao para a Ciencia e Tecnologia (ref. CMUP-ERI/HCI/0051/2013)
 
 **Partners:**
 
 * INESC-ID, Portugal
-* Instituto de Sistemas e Robótica, IST, Portugal
+* Instituto de Sistemas e Robotica, IST, Portugal
 * Carnegie Mellon University, USA
-* Faculdade de Ciências e Tecnologia, UNL, Portugal
+* Faculdade de Ciencias e Tecnologia, UNL, Portugal
 * Hospital Garcia de Orta, Portugal
 * IDMind, Engenharia de Sistemas, Portugal
 * PLUX Wireless Biosignals, Portugal

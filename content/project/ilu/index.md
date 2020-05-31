@@ -16,13 +16,13 @@ links:
   url: "http://web.ist.utl.pt/rmch/ilu/"
 ---
 
-**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. DSAIPA/DS/0111/2018)
+**Funded by:** Portuguese Fundacao para a Ciencia e Tecnologia (ref. DSAIPA/DS/0111/2018)
 
 **Partners:**
 
 * INESC-ID, Portugal
-* Laboratório Nacional de Engenharia Civil, Portugal
-* Câmara Municipal de Lisboa, Portugal
+* Laboratorio Nacional de Engenharia Civil, Portugal
+* Camara Municipal de Lisboa, Portugal
 
 **Role in the project:** Researcher
 

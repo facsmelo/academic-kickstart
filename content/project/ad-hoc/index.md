@@ -4,6 +4,7 @@ summary: This project explores ad hoc teamwork between humans and robots.
 tags:
 - Multi-agent systems
 - Human-robot interaction
+- Planning under uncertainty
 date: "2020-05-30T20:15:00"
 
 image:
@@ -22,7 +23,7 @@ links:
 **Partners:**
 
 * INESC-ID, Portugal
-* Pontificia Universidade Católica - Rio, Brazil
+* Pontificia Universidade Catolica - Rio, Brazil
 
 **Role in the project:** Researcher
 
