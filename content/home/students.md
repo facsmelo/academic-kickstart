@@ -2,23 +2,23 @@
 # A "Meet the Team" section created with the People widget.
 # This section displays people from `content/authors/` which belong to the `user_groups` below.
 
-widget = "people"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 70  # Order that this section will appear.
+widget = "people"
+headless = true
+active = true
+weight = 70
 
-title = "Meet the Team"
+title = "Students and collaborators"
 subtitle = ""
 
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Principal Investigators",
-                 "Researchers",
-                 "Grad Students",
-                 "Administration",
-                 "Visitors",
-                 "Alumni"]
+  user_groups = ["Current PhD Students",
+                 "Current MSc students",
+                 "Former Post-doc collaborators"
+                 "Former PhD students",
+                 "Former MSc students",
+                 "Research grantees"]
 
 [design]
   # Show user's social networking links? (true/false)

@@ -13,7 +13,7 @@ date_format = "Jan 2006"
 # Experiences
 [[experience]]
   title = "Associate Professor"
-  company = "Instituto Superior Técnico"
+  company = "Instituto Superior Tecnico"
   company_url = "http://www.tecnico.ulisboa.pt"
   location = "Lisbon"
   date_start = "Feb 2018"
@@ -24,7 +24,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Assistant Professor"
-  company = "Instituto Superior Técnico"
+  company = "Instituto Superior Tecnico"
   company_url = "http://www.tecnico.ulisboa.pt"
   location = "Lisbon, Portugal"
   date_start = "Feb 2010"
@@ -57,7 +57,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Lecturer"
-  company = "Instituto Politécnico de Leiria"
+  company = "Instituto Politecnico de Leiria"
   company_url = "https://www.ipleiria.pt/home/"
   location = "Leiria, Portugal"
   date_start = "Mar 2004"
@@ -69,7 +69,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Teaching Assistant"
-  company = "Instituto Superior Técnico"
+  company = "Instituto Superior Tecnico"
   company_url = "http://www.tecnico.ulisboa.pt"
   location = "Lisbon, Portugal"
   date_start = "Sep 2000"
