@@ -1,42 +1,44 @@
 ---
-title: "MAIS+S (closed)"
-summary: MAIS+S deals with the problem of planning in decentralized multi-agent systems in the context of intelligent surveillance networks.
+title: "INSIDE (closed)"
+summary: The INSIDE initiative explored symbiotic interactions between humans and robots, developing new hardware and software to support real-world interaction with children with ASD in joint cooperative tasks with therapeutical purposes.
 tags:
+- Human-robot interaction
 - Multi-agent systems
 date: "2020-05-30T20:15:00"
 
 image:
-  caption: 
+  caption: Interaction between therapist, robot and child
   focal_point: Smart
  
 links:
 - icon: link
   icon_pack: fab
   name: Webpage
-  url: "http://gaips.inesc-id.pt/mais-s/index.html"
+  url: "http://www.project-inside.pt/"
 ---
 
-**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. CMU-PT/SIA/0023/2009)
+**Funded by:** Portuguese Fundação para a Ciência e Tecnologia (ref. CMUP-ERI/HCI/0051/2013)
 
 **Partners:**
 
 * INESC-ID, Portugal
 * Instituto de Sistemas e Robótica, IST, Portugal
 * Carnegie Mellon University, USA
-* ObservIT, Portugal
+* Faculdade de Ciências e Tecnologia, UNL, Portugal
+* Hospital Garcia de Orta, Portugal
+* IDMind, Engenharia de Sistemas, Portugal
+* PLUX Wireless Biosignals, Portugal
+* VoiceInteraction, Portugal
 
 **Role in the project:** Principal Investigator
 
 **Description**: 
 
-With the generalized use of "intelligent technology", the interaction between multiple smart devices poses interesting challenges both in terms of engineering and research. One interesting aspect of this phenomenon in the context of MAIS+S is the appearance of networks of heterogeneous devices that must operate in a fully distributed manner while sharing information necessary to complete some preassigned task. In MAIS+S, such complex networks are modeled as multi-agent systems, by interpreting individual nodes or groups of nodes with autonomous agents. This interpretation suggests several interesting research avenues, some of which are the focus of the project.
+The INSIDE initiative is driven by the following key research goals:
 
-MAIS+S explored a class of decision-theoretic models that naturally captures the decentralized nature of these networks in terms of local perception (the information that each node can acquire per se), interaction/communication (the exchange of information between the nodes) and local actuation (each node processes locally the available information and acts accordingly). In fact, one can argue that several systems typically considered in a fully centralized fashion (such as surveillance systems) could potentially benefit from this multi-agent view (e.g. in terms of robustness, more efficient communication, etc).
+* Explore the scientific and technological challenges involved in developing __symbiotic human-robot interactions__ in the context of a physical game involving children. We investigate how to extend ad hoc teamwork and approaches on multiagent planning under uncertainty to cooperative scenarios involving human and robot agents.
+* Explore the scientific and technological challenges involved in developing robust forms of natural interaction and how contextual and environment information (collected by a sensor network) can improve the communication between robot and human agents during joint collaborative tasks involving activities in a physical environment.
 
-MAIS+S focused in heterogeneous surveillance networks that include different kinds of nodes, possibly with different perceptual and actuation capabilities, as well as different processing power. From this perspective it is natural, for example, to have nodes corresponding to cameras mounted on mobile robots. The control and even the positioning of the robots should be decided locally but in such a way to globally optimize the performance of the network.
+Broadly speaking, INSIDE explores the benefits that the interaction with a heterogeneous network of intelligent devices can bring to the therapy of children with Autism Spectrum Disorder (ASD).
 
-The project explored 3 main research challenges:
-
-* Scalability, i.e., the impact of local interactions in distributed decision-making in networked systems.
-* Efficient communication, i.e., the tradeoff between using communication to simplify the decision process against the cost of overloading the communication channels.
-* Vision, i.e., the problem of multi-camera tracking and action recognition using multiple cameras.
+In INSIDE we also investigate both novel hardware (such as biometric sensors) and processing algorithms (for example, for natural language-based interaction) that enable the system as a whole to infer the user’s behavior and goals and act upon these, facilitating a natural and cooperative interaction between the system and the human users in the context of joint human-robot cooperative tasks.
