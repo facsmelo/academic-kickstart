@@ -38,7 +38,7 @@ date_format = "Jan 2006"
   company = "INESC-ID"
   company_url = "http://www.inesc-id.pt"
   location = "Lisbon, Portugal"
-  date_start = "June 2009"
+  date_start = "Jun 2009"
   date_end = ""
   description = """
   Group on AI for People and Society
