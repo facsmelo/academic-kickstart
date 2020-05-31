@@ -33,10 +33,10 @@ interests:
 education:
   courses:
   - course: PhD in Electrical and Computer Engineering
-    institution: Instituto Superior Técnico
+    institution: Instituto Superior Tecnico
     year: 2007
   - course: "Licenciatura" in Electrical and Computer Engineering
-    institution: Instituto Superior Técnico
+    institution: Instituto Superior Tecnico
     year: 2002
 
 # Social/Academic Networking
