@@ -50,26 +50,74 @@ subtitle = ""
  css_class = ""
 +++
 
-Welcome to the **Academic Kickstart** template!
+## Current PhD students:
 
-Follow our [Getting Started](https://sourcethemes.com/academic/docs/get-started/) and [Page Builder](https://sourcethemes.com/academic/docs/widgets/) guides to easily personalize the template and then [add your own content](https://sourcethemes.com/academic/docs/managing-content/).
+* **Rui Silva**, Dual PhD CMU-IST Program in Computer Science and Engineering (co-advised with Manuela Veloso)
+* **Kim Baraka**, Dual PhD CMU-IST Program in Electrical Engineering and Robotics (co-advised with Manuela Veloso)
+* **Filipa Correia**, IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
+* **Carla Guerra**, IST PhD in Information Systems and Computer Engineering (co-advised with Manuel Lopes)
+* **Ali Kordia**, IST PhD in Information Systems and Computer Engineering
+* **Miguel Faria**, IST PhD in Information Systems and Computer Engineering
+* **Miguel Vasco**, IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
+* **Ramona Merhej**, IST PhD in Information Systems and Computer Engineering (co-advised with Francisco C. Santos)
+* **Silvia Tulli**, IST PhD in Information Systems and Computer Engineering (co-advised with Ana Paiva)
+* **Joao Ribeiro**, IST PhD in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
+* **Guilherme Varela**, IST PhD in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
 
-For inspiration, check out [the Markdown files](https://sourcethemes.com/academic/docs/install/#demo-content) which power the [personal demo](https://academic-demo.netlify.com/). The easiest way to publish your new site to the internet is with [Netlify](https://sourcethemes.com/academic/docs/deployment/).
+## Current MSc students:
 
-- [View the documentation](https://sourcethemes.com/academic/docs/)
-- [Ask a question](http://discuss.gohugo.io/)
-- [Request a feature or report a bug](https://github.com/gcushen/hugo-academic/issues)
-- Updating? View the [Update Guide](https://sourcethemes.com/academic/docs/update/) and [Release Notes](https://sourcethemes.com/academic/updates/)
-- Support development of Academic:
-  - [Donate a coffee](https://paypal.me/cushen)
-  - [Become a backer on Patreon](https://www.patreon.com/cushen)
-  - [Decorate your laptop or journal with an Academic sticker](https://www.redbubble.com/people/neutreno/works/34387919-academic)
-  - [Wear the T-shirt](https://academic.threadless.com/)
+* **Joao Esteves**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
+* **Pedro M. Santos**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
+* **Pedro P. Santos**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
+* **Pedro Remedios**, MSc in Information Systems and Computer Engineering (co-advised with Alberto Sardinha)
+* **Ricardo Martins**, MSc in Information Systems and Computer Engineering
+* **Ricardo Quinteiro**, MSc in Mathematics and Applications (co-advised with Pedro Santos)
+* **Rodrigo Agostinho**, MSc in Information Systems and Computer Engineering
 
-{{% alert note %}}
-This homepage section is an example of adding [elements](https://sourcethemes.com/academic/docs/writing-markdown-latex/) to the [*Blank* widget](https://sourcethemes.com/academic/docs/widgets/).
+## Past post-doctoral collaborators:
 
-Backgrounds can be applied to any section. Here, the *background* option is set give a *color gradient*.
+* **Pedro Sequeira**, Post-doctoral Fellow at INESC-ID, 2014-2016
+* **Stefan Witwicki**, Post-doctoral Fellow at INESC-ID, 2011-2013
 
-**To remove this section, delete `content/home/demo.md`.**
-{{% /alert %}}
+## Past PhD students:
+
+* **Hang Yin**, Dual IST-EPFL PhD Program in Computer Science and Engineering, 2018 (co-advised with Ana Paiva and Aude Billard)
+* **Pedro Sequeira**, PhD in Information Systems and Computer Engineering, 2013 (co-advised with Ana Paiva)
+
+## Past MSc students:
+
+* **Ricardo Sequeira**, MSc in Information Systems and Computer Engineering, 2019 (co-advised with Rui Prada)
+* **Renato Cardoso**, MSc in Information Systems and Computer Engineering, 2019 (co-advised with Manuel Lopes)
+* **Joao Barbosa**, MSc in Information Systems and Computer Engineering, 2019 (co-advised with Francisco C. Santos)
+* **Diogo Carvalho**, MSc in Mathematics and Applications, 2019 (co-advised with Pedro Santos)
+* **Daniel Alves**, MSc in Information Systems and Computer Engineering, 2019 (co-advised with António Reis)
+* **Miguel Vera**, MSc in Information Systems and Computer Engineering, 2019 (co-advised with Manuel Lopes)
+* **Goncalo Rodrigues**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with Alberto Sardinha)
+* **Henrique Carlos**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with Sofia Pinto)
+* **Joao Ribeiro**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with João Dias)
+* **Luis Henriques**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with Luísa Coheur)
+* **Ricardo Costa**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with Rui Prada)
+* **Joao Abreu**, MSc in Information Systems and Computer Engineering, 2018 (co-advised with Manuel Lopes)
+* **Ana Rita Salta**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Rui Prada)
+* **Daniel Brandao**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with João Dias)
+* **Goncalo Castilho**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Manuel Lopes)
+* **Tiago Gomes**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Manuel Lopes)
+* **Tomas Alves**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Sandra Gama)
+* **Andre Santos**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Pedro Santos)
+* **Hugo Martins**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Alberto Sardinha)
+* **Joao Cruz**, MSc in Information Systems and Computer Engineering, 2017 (co-advised with Rui Prada)
+* **Miguel Faria**, MSc in Information Systems and Computer Engineering, 2016 (co-advised with Ana Paiva)
+* **Rodrigo Monteiro**, MSc in Information Systems and Computer Engineering, 2016 (co-advised with Alberto Sardinha)
+* **Ana Narciso**, MSc in Information Systems and Computer Engineering, 2016 (co-advised with Alberto Sardinha)
+* **Beatriz Bernardo**, MSc in Information Systems and Computer Engineering, 2016 (co-advised with Ana Paiva)
+* **Filipa Correia**, MSc in Information Systems and Computer Engineering, 2015 (co-advised with Ana Paiva)
+* **Pedro Gusmao**, MSc in Information Systems and Computer Engineering, 2015 (co-advised with Rui Prada)
+* **Joao Quiterio**, MSc in Information Systems and Computer Engineering, 2015 (co-advised with Rui Prada)
+* **Daniel Magarreiro**, MSc in Information Systems and Computer Engineering, 2014 (co-advised with Luísa Coheur)
+* **Ricardo Carvalho**, MSc in Information Systems and Computer Engineering, 2014 (coadvised with Alberto Sardinha)
+* **Rui Silva**, MSc in Information Systems and Computer Engineering, 2014
+* **Joana Botelho**, MSc in Information Systems and Computer Engineering, 2013 (co-advised with Ana Paiva)
+* **Joao Prioste**, MSc in Information Systems and Computer Engineering, 2013 (co-advised with Rui Prada)
+* **Diogo Simoes**, MSc in Information Systems and Computer Engineering, 2012 (co-advised with Ana Paiva)
+* **Carlos Fraga**, MSc in Information Systems and Computer Engineering, 2011 (co-advised with Rui Prada)
+* **Vivek Maganlal**, MSc in Information Systems and Computer Engineering, 2011 (co-advised with Ana Paiva)
