@@ -93,14 +93,14 @@ phone = "+351 210 407 002"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "450 Serra Mall", city = "Stanford", region = "CA", postcode = "94305", country = "United States", country_code = "US"}
+address = {street = "TagusPark, Edificio IST, Av. Prof. Dr. Anibal Cavaco Silva", city = "Porto Salvo", region = "Oeiras", postcode = "2744-016", country = "Portugal", country_code = "PT"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "38.737270", longitude = "-9.302647"}
 
 # Directions for visitors to locate you.
-directions = "Enter IST building at TagusPark and stairs to floor 2, Nucleo 7, Office 2N7.15."
+directions = "Enter IST building; take the stairs to floor 2, Nucleo 7, Office 2N7.15."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
