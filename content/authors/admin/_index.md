@@ -14,12 +14,12 @@ role: Senior Researcher (INESC-ID)
       Associate Professor (IST)
 
 # Organizations/Affiliations
-#organizations:
-#- name: INESC-ID
-#  url: "http://www.inesc-id.pt"
+organizations:
+- name: INESC-ID
+  url: "http://www.inesc-id.pt"
 
-#- name: Instituto Superior Técnico
-#  url: "http://www.tecnico.ulisboa.pt"
+- name: Instituto Superior Tecnico (IST)
+  url: "http://www.tecnico.ulisboa.pt"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research lies at the intersection of different sub-fields within artificial intelligence, such as decision-theoretic planning (and its applications to human-robot interaction and collaborative multiagent scenarios), general reinforcement learning, active learning, and interactive machine learning.
@@ -35,7 +35,7 @@ education:
   - course: PhD in Electrical and Computer Engineering
     institution: Instituto Superior Tecnico
     year: 2007
-  - course: "Licenciatura" in Electrical and Computer Engineering
+  - course: Licenciatura in Electrical and Computer Engineering
     institution: Instituto Superior Tecnico
     year: 2002
 
